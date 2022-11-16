@@ -34,6 +34,8 @@ After finishing reading all the material below, I needed another month to go ove
 - Avoid taking practice exams over and over again.  Understand why an anwer is correct or not, and the underlying cyber principles.
 
 ## Resources
+These resources were my main areas for studying, but there are many free resources about the CISSP. I limited my resources in order to keep my focus. 
+
 - [CISSP subreddit](https://www.reddit.com/r/cissp/)
 - [CCSP](https://ccsp.alukos.com/) I found this website after I took my exam but it is great site for security principles/laws that are covered in the CISSP.
 - [Boson CISSP Practice Exams](https://www.boson.com/certification/cissp)
@@ -41,3 +43,4 @@ After finishing reading all the material below, I needed another month to go ove
 - [Larry Greenblatt CISSP Videos](https://www.youtube.com/watch?v=wFc333ZE1KM&list=PLpiwOCDosEX7tNQGeXuuPV-frRgmtGicy&ab_channel=MaxQuasar)
 - [Mike Chapple's LinkedIn CISSP course](https://www.linkedin.com/learning/paths/0930d8ed-be90-370e-824c-5cfdde530e65?u=67552850)
 - [SOC auditing reports](https://ccsp.alukos.com/standards/aicpa-soc/)
+- [NIST CSF](https://www.nist.gov/cyberframework)
