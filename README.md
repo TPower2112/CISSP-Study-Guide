@@ -6,7 +6,7 @@ I created this study guide to assist others in studying for this exam.
 In any endeavor, committment and persistence are the keys to success.
 - The first step in stuyding is to [register](https://www.isc2.org/Register-for-Exam) for the exam.
 - Initially, I gave myself four months to study since I had a full time job and a family.  
-After finishing reading all the material below, I needed another month to go over practice questions and practice exams.  
+After reading all the material below, I needed another month to go over practice questions and practice exams.  
 - Studying time varies with each person, allow enough flexibility to provide breathing room, but enough rigidity to stay focus.  
 - By scheduling the exam, you are committing your mind, body, and wallet to studying.
 
