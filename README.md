@@ -44,4 +44,4 @@ These resources were my main areas for studying, but there are many free resourc
 - [Mike Chapple's LinkedIn CISSP course](https://www.linkedin.com/learning/paths/0930d8ed-be90-370e-824c-5cfdde530e65?u=67552850)
 - [SOC auditing reports](https://ccsp.alukos.com/standards/aicpa-soc/)
 - [NIST CSF](https://www.nist.gov/cyberframework)
-- [Larry's 2020 CISSP Videos](https://www.youtube.com/watch?v=LafS7wM7uOk&t=5s&ab_channel=MaxQuasar)
+- [Larry's 2020 CISSP Videos](https://www.youtube.com/watch?v=HWg2geVJuvs&t=6s&ab_channel=MaxQuasar)
