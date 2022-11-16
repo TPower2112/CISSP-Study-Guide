@@ -40,7 +40,7 @@ These resources were my main areas for studying, but there are many free resourc
 - [CCSP](https://ccsp.alukos.com/) I found this website after I took my exam but it is great site for security principles/laws that are covered in the CISSP.
 - [Boson CISSP Practice Exams](https://www.boson.com/certification/cissp)
 - [Official CISSP Study Guide and Practice Exams](https://www.amazon.ca/dp/1119790026/ref=sspa_dk_detail_3?psc=1&pd_rd_i=1119790026&pd_rd_w=k135G&content-id=amzn1.sym.c7dca932-da6a-44fc-af09-cc68d2449b34&pf_rd_p=c7dca932-da6a-44fc-af09-cc68d2449b34&pf_rd_r=FM00T75NDKEKSRZ3TAAZ&pd_rd_wg=3SuEt&pd_rd_r=4a317dbd-3558-42ec-9bc9-e42064b5187d&s=books&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw) Please confirm the latest edition.
-- [Larry Greenblatt CISSP Videos](https://www.youtube.com/watch?v=wFc333ZE1KM&list=PLpiwOCDosEX7tNQGeXuuPV-frRgmtGicy&ab_channel=MaxQuasar)
+- [Larry Greenblatt CISSP Videos](https://www.youtube.com/watch?v=LafS7wM7uOk&t=5s&ab_channel=MaxQuasar)
 - [Mike Chapple's LinkedIn CISSP course](https://www.linkedin.com/learning/paths/0930d8ed-be90-370e-824c-5cfdde530e65?u=67552850)
 - [SOC auditing reports](https://ccsp.alukos.com/standards/aicpa-soc/)
 - [NIST CSF](https://www.nist.gov/cyberframework)
