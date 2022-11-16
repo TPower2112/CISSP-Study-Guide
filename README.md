@@ -23,6 +23,7 @@ After reading all the material below, I needed another month to go over practice
 - Incident Response
 - Penetration Testing
 - Software Development Lifecycle
+- Identity Access & Management (IAM) Provisioning Lifecycle
 
 ## Post-Exam Reflections
 - Think like a Manager, not a techie. Follow the process! [Kelly Handerhan](https://www.youtube.com/watch?v=v2Y6Zog8h2A&t=90s&ab_channel=KellyHanderhan) was right!
