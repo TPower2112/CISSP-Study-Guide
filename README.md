@@ -12,7 +12,7 @@ After finishing reading all the material below, I needed another month to go ove
 
 ## Study and Sit for an intro Cloud Certification Exam
 - By studying for and passing an introductory cloud exam, I was able to get into a studying mindset and gain confidence.
-- In addition, basic cloud and security principles are covered in the exam.  
+- In addition, basic security principles are covered in the exam.  
   - [AWS Cloud Practitioner Exam](https://aws.amazon.com/training/learn-about/cloud-practitioner/?trk=e625a6af-e0c0-4e85-85da-3194b8b9eb1e&sc_channel=ps&s_kwcid=AL!4422!3!503167989022!e!!g!!aws%20cloud%20fundamentals%20training&ef_id=Cj0KCQiAsdKbBhDHARIsANJ6-jfcQhAn_QcJ2Y9RpDh1YhhjW4M82ONd4YHNnjvkC6XySVWaeZ35g_gaAsZ1EALw_wcB:G:s&s_kwcid=AL!4422!3!503167989022!e!!g!!aws%20cloud%20fundamentals%20training)
   - [MS AZ-900 Exam](https://learn.microsoft.com/en-us/certifications/exams/az-900)
 
