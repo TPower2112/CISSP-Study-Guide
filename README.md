@@ -20,7 +20,7 @@ After reading all the material below, I needed another month to go over practice
 
 ## Understand the Major Cybersecurity Principles
 - CIA Triad
-- Data Security/Classification/Lifecycle
+- Data Security/Classification
 - Privacy
 - Defense in depth
 - Identification
@@ -36,6 +36,7 @@ After reading all the material below, I needed another month to go over practice
 - Risk Management
 - Business Impact Analysis (BIA)
 - Change Management
+- Data Lifecycle
 - Business Continuity/Disaster Recovery
 - Incident Response
 - Penetration Testing
