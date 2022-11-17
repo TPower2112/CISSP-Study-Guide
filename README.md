@@ -7,7 +7,7 @@ In any endeavor, committment and persistence are the keys to success.
 - Initially, I gave myself four months to study since I had a full time job and a family.  
 After reading all the material below, I needed another month to go over practice questions and practice exams.  
 - Studying time varies with each person, allow enough flexibility to provide breathing room, but enough rigidity to stay focus.  
-- By scheduling the exam, you are committing your mind, body, and wallet to studying.
+- With scheduling the exam, you are committing your mind, body, and wallet to studying.
 
 ## Study and Sit for an intro Cloud Certification Exam
 - By studying for and passing an introductory cloud exam, I was able to get into a studying mindset and gain confidence.
