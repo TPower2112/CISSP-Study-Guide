@@ -2,7 +2,6 @@
 I created this study guide to help cyber professionals pass the [CISSP](https://www.isc2.org/Certifications/CISSP) exam.  
 
 ## Schedule and Pay for the Exam
-In any endeavor, committment and persistence are the keys to success.
 - The first step in stuyding is to [register](https://www.isc2.org/Register-for-Exam) for the exam.
 - Initially, I gave myself four months to study since I had a full time job and a family.  
 After reading all the material below, I needed another month to go over practice questions and practice exams.  
