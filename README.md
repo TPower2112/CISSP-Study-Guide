@@ -14,6 +14,10 @@ After reading all the material below, I needed another month to go over practice
 - In addition, basic security principles are covered in the exam.  
   - [AWS Cloud Practitioner Exam](https://aws.amazon.com/training/learn-about/cloud-practitioner/?trk=e625a6af-e0c0-4e85-85da-3194b8b9eb1e&sc_channel=ps&s_kwcid=AL!4422!3!503167989022!e!!g!!aws%20cloud%20fundamentals%20training&ef_id=Cj0KCQiAsdKbBhDHARIsANJ6-jfcQhAn_QcJ2Y9RpDh1YhhjW4M82ONd4YHNnjvkC6XySVWaeZ35g_gaAsZ1EALw_wcB:G:s&s_kwcid=AL!4422!3!503167989022!e!!g!!aws%20cloud%20fundamentals%20training)
   - [MS AZ-900 Exam](https://learn.microsoft.com/en-us/certifications/exams/az-900)
+ 
+ ## Visual Success!
+ - I wrote on paper each morning and evening, **"I will pass the CISSP on my first try!"**
+ - I did this 10 times a day.
 
 ## Understand all the Major Processes related to Cybersecurity and Risk Management
 - Risk Management
