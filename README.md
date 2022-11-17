@@ -40,7 +40,7 @@ After reading all the material below, I needed another month to go over practice
 - [Spock vs Captain Kirk!](https://www.youtube.com/watch?v=KG9JN9X4_ZI&ab_channel=MaxQuasar)  Thanks Larry. 
 - The CISSP exam is not just a cybersecurity exam but a comprehension exam. 
 - Take your time to understand what the ask is in the question.
-- View Larry Greenblatt's CISSP vidoes as many times as possible in order to understand the mindset for answering questions on the CISSP exam.
+- View Larry Greenblatt's CISSP videos as many times as possible in order to understand the mindset for answering questions on the CISSP exam.
 - Set aside a month to take and to review practice exam questions.  I went over 3,000 exam questions which helped me identify my weak areas.
 - Avoid taking practice exams over and over again.  Understand why an anwer is correct or not, and the underlying cyber principles.
 
