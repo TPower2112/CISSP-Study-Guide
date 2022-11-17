@@ -31,7 +31,7 @@ After reading all the material below, I needed another month to go over practice
 - Software Development Lifecycle
 - Identity Access & Management (IAM) Provisioning Lifecycle
  
- ## Visual Success!
+ ## Visual Success
  - I wrote on paper, **"I will pass the CISSP on my first try!"**
  - I did this 10 times in the morning and in the evening.
 
