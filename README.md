@@ -28,6 +28,7 @@ After reading all the material below, I needed another month to go over practice
 - Non-repudiation
 - Risk
 - Resilience
+- Web Application Security ([OWASP Top Ten](https://owasp.org/www-project-top-ten/#))
 
 ## Understand all the Major Processes related to Cybersecurity and Risk Management
 - Risk Management
