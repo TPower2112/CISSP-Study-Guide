@@ -20,6 +20,7 @@ After reading all the material below, I needed another month to go over practice
 
 ## Understand the Major Cybersecurity Principles
 - CIA Triad
+- Privacy
 - Defense in depth
 - Identification
 - Authentication, authorization, and accounting (AAA)
@@ -60,3 +61,4 @@ These resources were my main areas for studying, but there are many free resourc
 - [Mike Chapple's LinkedIn CISSP course](https://www.linkedin.com/learning/paths/0930d8ed-be90-370e-824c-5cfdde530e65?u=67552850)
 - [SOC auditing reports](https://ccsp.alukos.com/standards/aicpa-soc/)
 - [NIST CSF](https://www.nist.gov/cyberframework)
+- [NIST Glossary](https://csrc.nist.gov/glossary)
