@@ -5,7 +5,7 @@ I created this study guide to help cyber professionals pass the [CISSP](https://
 - The first step in stuyding is to [register](https://www.isc2.org/Register-for-Exam) for the exam.
 - Initially, I gave myself four months to study since I had a full time job and a family.  
 After reading all the material below, I needed another month to go over practice questions and practice exams.  
-- Studying time varies with each person, allow enough flexibility to provide breathing room, but enough rigidity to stay focus.  
+- Studying time varies with each person, allow enough flexibility to provide breathing room, but enough structure to stay focus.  
 - With scheduling the exam, you are committing your mind, body, and wallet to studying.
 
 ## Visual Success
