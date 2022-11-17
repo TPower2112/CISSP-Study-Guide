@@ -17,7 +17,9 @@ After reading all the material below, I needed another month to go over practice
 ## Understand all the Major Cybersecurity Principles
 - CIA Triad
 - Defense in depth
+- Identification
 - Authentication, authorization, and accounting (AAA)
+- Multifactor Authentication (MFA)
 - Least Privilege
 - Non-repudiation
 - Risk
