@@ -20,6 +20,7 @@ After reading all the material below, I needed another month to go over practice
 - Authentication, authorization, and accounting (AAA)
 - Least Privilege
 - Non-repudiation
+- Risk
 - Resilience
 
 ## Understand all the Major Processes related to Cybersecurity and Risk Management
