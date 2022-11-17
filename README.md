@@ -18,6 +18,14 @@ After reading all the material below, I needed another month to go over practice
  - I wrote on paper, **"I will pass the CISSP on my first try!"**
  - I did this 10 times a day in the morning and in the evening.
 
+## Understand all the Major Cybersecurity Principles
+- CIA Triad
+- Defense in depth
+- Authentication, authorization, and accounting (AAA)
+- Least Privilege
+- Non-repudiation
+- Resilience
+
 ## Understand all the Major Processes related to Cybersecurity and Risk Management
 - Risk Management
 - Change Management
