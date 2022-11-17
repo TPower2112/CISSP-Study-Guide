@@ -34,7 +34,7 @@ After reading all the material below, I needed another month to go over practice
 - Risk Management
 - Business Impact Analysis (BIA)
 - Change Management
-- Business Continuity/Diaster Recovery
+- Business Continuity/Disaster Recovery
 - Incident Response
 - Penetration Testing
 - Software Development Lifecycle
