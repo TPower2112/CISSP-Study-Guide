@@ -8,6 +8,10 @@ After reading all the material below, I needed another month to go over practice
 - Studying time varies with each person, allow enough flexibility to provide breathing room, but enough rigidity to stay focus.  
 - With scheduling the exam, you are committing your mind, body, and wallet to studying.
 
+## Visual Success
+- Each morning and evening I wrote, **I will pass the CISSP on my first try!**, ten times.
+- Visualization of success helps with motivation and staying positive when navigating through uncertainty.
+
 ## Study and Sit for an intro Cloud Certification Exam
 - By studying for and passing an introductory cloud exam, I was able to get into a studying mindset and gain confidence.
 - In addition, basic security principles are covered in the exam.  
@@ -33,10 +37,6 @@ After reading all the material below, I needed another month to go over practice
 - Penetration Testing
 - Software Development Lifecycle
 - Identity Access & Management (IAM) Provisioning Lifecycle
- 
- # Visual Success
- - I wrote on paper, **"I will pass the CISSP on my first try!"**
- - I did this 10 times in the morning and in the evening.
 
 ## Post-Exam Reflections
 - Think like a Manager, not a techie. Follow the process! [Kelly Handerhan](https://www.youtube.com/watch?v=v2Y6Zog8h2A&t=90s&ab_channel=KellyHanderhan) was right!
