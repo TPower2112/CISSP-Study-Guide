@@ -16,8 +16,8 @@ After reading all the material below, I needed another month to go over practice
   - [MS AZ-900 Exam](https://learn.microsoft.com/en-us/certifications/exams/az-900)
  
  ## Visual Success!
- - I wrote on paper each morning and evening, **"I will pass the CISSP on my first try!"**
- - I did this 10 times a day.
+ - I wrote on paper, **"I will pass the CISSP on my first try!"**
+ - I did this 10 times a day in the morning and in the evening.
 
 ## Understand all the Major Processes related to Cybersecurity and Risk Management
 - Risk Management
