@@ -1,6 +1,5 @@
 # CISSP-Study-Guide
-I have assisted colleagues with studying and passing the [CISSP](https://www.isc2.org/Certifications/CISSP) exam.  
-I created this study guide to assist others in studying for this exam.
+I created this study guide to help cyber professionals pass the [CISSP](https://www.isc2.org/Certifications/CISSP) exam.  
 
 ## Schedule and Pay for the Exam
 In any endeavor, committment and persistence are the keys to success.
