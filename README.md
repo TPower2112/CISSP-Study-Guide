@@ -32,6 +32,7 @@ After reading all the material below, I needed another month to go over practice
 
 ## Understand the Major Processes related to Cybersecurity and Risk Management
 - Risk Management
+- Business Impact Analysis (BIA)
 - Change Management
 - Business Continuity/Diaster Recovery
 - Incident Response
