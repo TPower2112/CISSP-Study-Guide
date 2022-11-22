@@ -33,7 +33,7 @@ After reading all the material below, I needed another month to go over practice
 - Resilience
 - Web Application Security ([OWASP Top Ten](https://owasp.org/www-project-top-ten/#))
 
-## Understand the Major Processes related to Cybersecurity and Risk Management
+## Understand the Major Processes related to Cybersecurity
 - Risk Management
 - Business Impact Analysis (BIA)
 - Change Management
